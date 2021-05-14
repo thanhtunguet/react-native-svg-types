@@ -1,0 +1,18 @@
+{
+    "name": "react-native-svg-types",
+    "version": "1.0.0",
+    "description": "SVG types for React Native",
+    "types": "react-native-svg-types.d.ts",
+    "repository": "https://github.com/thanhtunguet/react-native-svg-types",
+    "author": "thanhtunguet <thanhtung.uet@gmail.com>",
+    "license": "MIT",
+    "private": false,
+    "devDependencies": {
+        "@types/react-native": "^0.64.5",
+        "typescript": "^4.2.4"
+    },
+    "peerDependencies": {
+        "react": "^17.0.2",
+        "react-native-svg": "^12.1.1"
+    }
+}
