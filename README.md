@@ -5,3 +5,17 @@ Type declaration for SVG module in React Native, to use with [react-native-svg-t
 ```sh
 yarn add -D thanhtunguet/react-native-svg-types
 ```
+
+## Usage
+
+Add to `tsconfig.json`:
+
+```json
+{
+  "compilerOptions": {
+    "types": [
+      "react-native-svg-types"
+    ]
+  }
+}
+```
